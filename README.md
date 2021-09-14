@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ameliamf
 - 👀 I’m interested in city planning! 
-- 🌱 I’m currently learning R and analyzing urban phenomenon through data.
+- 🌱 I’m currently learning R and analyzing urban phenomena through data.
 - 📫 How to reach me: ameliamf@upenn.edu
 
 <!---
